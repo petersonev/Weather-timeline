@@ -1,0 +1,78 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "77evan@gmail.com",
+    "enableMultiJS": false,
+    "longName": "Weather-Timeline",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Blocky.ttf",
+                "name": "FONT_BLOCKY_08",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Blocky.ttf",
+                "name": "FONT_BLOCKY_16",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Blocky.ttf",
+                "name": "FONT_BLOCKY_38",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Blocky.ttf",
+                "name": "FONT_BLOCKY_11",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/FORCED SQUARE.ttf",
+                "name": "FONT_SQUARE_52",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/FORCED SQUARE.ttf",
+                "name": "FONT_SQUARE_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/imagine.ttf",
+                "name": "FONT_IMAGINE_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/imagine.ttf",
+                "name": "FONT_IMAGINE_46",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Aurebesh Condensed Bold.ttf",
+                "name": "AUREBESH_BOLD_CONDENSED_49",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Weather-Timeline",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0d1da8c3-a536-4ff5-b912-3a30e655b1d1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
